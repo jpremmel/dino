@@ -1,34 +1,28 @@
 # _Dino Generator_
 
-#### _{Brief description of application}, 11 Sept 2019_
+#### _A page that generates a random dinosaur name, gif, and fact, 11 Sept 2019_
 
 #### By _**Lauren Musante and Jacqueline Remmel**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_The primary purpose of this project was to practice making API calls._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
-## Support and contact details
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+* _Clone this repository_
+* _Navigate to the project directory and run the command "npm install"_
+* _Go to https://developers.giphy.com/dashboard/ and log in to your account (or create an account and log in)_
+* _Create an App on your Giphy Dashboard to obtain an API key_
+* _In the project directory, create a file called ".env"_
+* _Open the .env file and store your API key using the format "API_KEY = your-API-key-here"_
+* _Save the .env file_
+* _Run the command "npm run build"_
+* _Navigate to the "build" directory and open the "index.html" file in a browser_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_JavaScript, jQuery, Webpack, CSS, Bootstrap, HTML_
 
 ### License
 
