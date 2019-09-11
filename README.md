@@ -17,7 +17,7 @@ _The primary purpose of this project was to practice making API calls._
 * _In the project directory, create a file called ".env"_
 * _Open the .env file and store your API key using the format "API_KEY = your-API-key-here"_
 * _Save the .env file_
-* _Run the command "npm run start"
+* _Run the command "npm run start"_
 
 ## Technologies Used
 
